@@ -1,0 +1,29 @@
+body{
+    margin-left: 15%;
+    font-family: sans-serif;
+}
+
+footer{
+    font-size: 10px;
+    margin-top: 10%;
+}
+#lama{
+    width: 30%;
+}
+.produksjon{
+    color: orange;
+    margin: 0;
+}
+
+.underOverskrift{
+    text-decoration: underline;
+}
+
+.listeOverskrift{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.lenker{
+    color: pink;
+}
