@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<head>
+    <html lang="en_gb">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OsloMets oblig 2</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <H1>
+        OSLOMET
+    </H1>
+    <h2>
+       DATA1200 Obligatorisk oppgave 2
+    </h2>
+    <p class="produksjon">Journalist: Julia Kræmer</p>
+    <p> 20/9/2023 </p>
+
+    <img id="lama" src="Lama.jpg" alt="Bilde av lama kosedyr">
+    <p class="produksjon"> Photographer: Julia Kræmer</p>
+
+   
+     <p class="avsnitt">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+         Temporibus, eligendi! Sapiente dolorem officiis, sunt itaque 
+         libero corporis laborum autem! Culpa voluptas fugiat in laudantium 
+         aut voluptatibus, accusamus impedit ut repellat?</p>
+
+    <h4 class="underOverskrift">Lorem</h4>
+
+    <p class="avsnitt">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Non excepturi ullam nesciunt atque dolore, dolorum earum doloribus
+        molestias vel est omnis iste, aliquam obcaecati ut nihil optio officiis 
+        recusandae! Consequatur!</p>
+
+    <h4 class="underOverskrift">Lorem</h4>
+
+    <p class="avsnitt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia esse, 
+        sapiente possimus non aliquid soluta deserunt, earum 
+        repudiandae tempora doloribus enim corrupti porro ullam ducimus quidem 
+        voluptate optio. Laboriosam, totam?</p>
+
+<a class="lenker" href="ekstra/secondpage.html">Next Page</a>
+</body>
+</html>
