@@ -1,0 +1,48 @@
+body{
+    font-family: sans-serif;
+}
+
+footer{
+    font-size: 10px;
+    margin-top: 5%;
+    background-color: #fcd303;
+}
+#lama{
+    width: 30%;
+}
+
+#Grid1{
+    margin-top: 0;
+    margin-left: 0;
+    background-color: #fcd303;
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+#opacity{
+    opacity: 0;
+    grid-column: span 5;
+}
+
+#Headline{
+    font-size: 30px;
+}
+
+.produksjon{
+    color: orange;
+    margin: 0;
+}
+
+.underOverskrift{
+    text-decoration: underline;
+}
+
+.listeOverskrift{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.lenker{
+    color: darkblue;
+}
